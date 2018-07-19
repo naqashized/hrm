@@ -20,8 +20,9 @@
     {
       "accessType": "*",
       "principalType": "ROLE",
-      "principalId": "admin",
+      "principalId": "$authenticated",
       "permission": "ALLOW"
-    }],
-  "methods": []
+    }
+  ],
+  "methods": {}
 }
