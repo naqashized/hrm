@@ -34,5 +34,9 @@
   "employee": {
     "dataSource": "db",
     "public": true
+  },
+  "designation": {
+    "dataSource": "db",
+    "public": true
   }
 }
