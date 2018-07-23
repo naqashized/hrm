@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
+    "host": "ds121331.mlab.com",
+    "port": 21331,
     "url": "",
     "database": "hrmplus",
-    "password": "",
+    "password": "master3214",
     "name": "db",
-    "user": "",
+    "user": "hrmplus",
     "connector": "mongodb"
   }
 }
