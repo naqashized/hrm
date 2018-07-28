@@ -12,11 +12,12 @@
     },
     "description": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "status": {
       "type": "boolean",
-      "required": true
+      "required": true,
+      "default": true
     }
   },
   "validations": [],

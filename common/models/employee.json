@@ -16,11 +16,11 @@
     },
     "phone": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "gender": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "address": {
       "type": "string",
@@ -28,39 +28,40 @@
     },
     "city": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "state": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "zipCode": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "country": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "mobileno": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "socialsecurityno": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "passportno": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "joiningDate": {
       "type": "date",
-      "required": true
+      "required": false
     },
     "status": {
       "type": "boolean",
-      "required": true
+      "required": true,
+      "default": true
     }
 
   },
